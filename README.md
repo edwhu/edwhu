@@ -21,7 +21,7 @@ Some of my side projects:
 | [optical illusion](https://github.com/edwhu/optical_illusion) | ![](https://img.shields.io/github/stars/edwhu/optical_illusion?label=%E2%98%85) | A cool optical illusion |
 
 ### Something to think about as a ML researcher.
-What is [your way](https://www.lesswrong.com/tag/twelfth-virtue-the)? I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, is misaligned with doing good science. The analogy I like to view it as is ML is currently a like a hackathon. Like a hackathon, you are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  Yes, some of these things are unavoidable.
+What is [your way](https://www.lesswrong.com/tag/twelfth-virtue-the)? I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, is misaligned with doing good science. The analogy I like to view it as is ML is currently like a hackathon. You are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  Yes, some of these things are unavoidable.
 
 ![Ant Death Spiral](https://github.com/edwhu/edwhu/blob/master/ant_death_spiral.gif)
 
