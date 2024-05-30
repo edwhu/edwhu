@@ -1,4 +1,4 @@
-Hi, I'm Edward. Currently, I'm interested in developing methods that interact, explore, and learn from the world. My research investigates deep reinforcement learning, perception, and robotics.
+Hi, I'm Edward. Currently, I'm interested in developing data-driven methods that interact, explore, and learn from the world. My research investigates deep reinforcement learning, perception, and robotics.
 
 ### 🤖&nbsp; Research Artifacts
 Here are the codebases of my research projects so far.
