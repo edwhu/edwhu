@@ -20,8 +20,8 @@ Some of my side projects:
 | [gpt2 slackbot](https://github.com/edwhu/slack-gpt2) | ![](https://img.shields.io/github/stars/edwhu/slack-gpt2?label=%E2%98%85) | Chatting with GPT2 in slack |
 | [optical illusion](https://github.com/edwhu/optical_illusion) | ![](https://img.shields.io/github/stars/edwhu/optical_illusion?label=%E2%98%85) | A cool optical illusion |
 
-### Something to think about as a ML researcher.
-What is [your way](https://www.lesswrong.com/tag/twelfth-virtue-the)? I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, is misaligned with doing good science. The analogy I like to view it as is ML is currently like a hackathon. You are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  
+### Something to think about as an ML researcher.
+What is [your way](https://www.lesswrong.com/tag/twelfth-virtue-the)? I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, are misaligned with doing good science. To employ an analogy, ML is currently like a hackathon. You are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  
 
 Yes, some of these things are unavoidable. But if you blindly follow the noise, you may end up in the eye of the storm - at a standstill, with no exit in sight.
 
