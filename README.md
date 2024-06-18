@@ -9,6 +9,8 @@ Here are the codebases of my research projects so far.
 | [planning goals for exploration](https://github.com/penn-pal-lab/peg) | ![](https://img.shields.io/github/stars/penn-pal-lab/peg?label=%E2%98%85) | Planning Goals for Exploration __(ICLR'23 Spotlight)__|
 | [interactive reward functions](https://github.com/penn-pal-lab/interactive_reward_functions) | ![](https://img.shields.io/github/stars/penn-pal-lab/interactive_reward_functions?label=%E2%98%85) | Training Robots to Evaluate Robots __(CoRL'22 Best Paper Award)__ |
 | [robot aware control](https://github.com/penn-pal-lab/robot_aware_control) | ![](https://img.shields.io/github/stars/penn-pal-lab/robot_aware_control?label=%E2%98%85) | Know Thyself: Transferable Visual Control Policies Through Robot-Awareness (ICLR'22) |
+| [ikea furniture simulation](https://github.com/clvrai/furniture) | ![](https://img.shields.io/github/stars/clvrai/furniture?label=%E2%98%85) | IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks (ICRA'21) |
+
 
 
 
@@ -20,12 +22,15 @@ Some of my side projects:
 | [gpt2 slackbot](https://github.com/edwhu/slack-gpt2) | ![](https://img.shields.io/github/stars/edwhu/slack-gpt2?label=%E2%98%85) | Chatting with GPT2 in slack |
 | [optical illusion](https://github.com/edwhu/optical_illusion) | ![](https://img.shields.io/github/stars/edwhu/optical_illusion?label=%E2%98%85) | A cool optical illusion |
 
-### Something to think about as an ML researcher.
-What is [your way](https://www.lesswrong.com/tag/twelfth-virtue-the)? I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, are misaligned with doing good science. To employ an analogy, ML is currently like a hackathon. You are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  
+
+<details>
+  <summary><i></i>Something to think about as an ML researcher</i></summary>
+  I think researchers start out very pure hearted, but can easily end up misled and lost. The incentives of the modern research community, particularly ML, are misaligned with doing good science. To employ an analogy, ML is currently like a hackathon. You are incentivized to put together an MVP that works just enough to pass the appraisal of the judges. You feel obligated to use the shiny new "X" because it will garner public attention. Companies with free t-shirts and kickbacks swarm around you.  
 
 Yes, some of these things are unavoidable. But if you blindly follow the noise, you may end up in the eye of the storm - at a standstill, with no exit in sight.
 
 ![Ant Death Spiral](https://github.com/edwhu/edwhu/blob/master/ant_spiral.gif)
 
+Don't be distracted by the noise!
 
-Don't be distracted by the noise, and find out your truth.
+</details>
