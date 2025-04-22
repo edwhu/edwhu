@@ -5,6 +5,7 @@ Here are the codebases of my research projects so far.
 
 |     |     |     |
 | :-: | :-: | :-- |
+| [bst](https://github.com/microsoft/bst) | ![](https://img.shields.io/github/stars/microsoft/bst?label=%E2%98%85) | The Belief State Transformer (ICLR'25) |
 | [scaffolder](https://github.com/penn-pal-lab/scaffolder) | ![](https://img.shields.io/github/stars/penn-pal-lab/scaffolder?label=%E2%98%85) | Privileged Sensing Scaffolds RL __(ICLR'24 Spotlight)__ |
 | [planning goals for exploration](https://github.com/penn-pal-lab/peg) | ![](https://img.shields.io/github/stars/penn-pal-lab/peg?label=%E2%98%85) | Planning Goals for Exploration __(ICLR'23 Spotlight)__|
 | [interactive reward functions](https://github.com/penn-pal-lab/interactive_reward_functions) | ![](https://img.shields.io/github/stars/penn-pal-lab/interactive_reward_functions?label=%E2%98%85) | Training Robots to Evaluate Robots __(CoRL'22 Best Paper Award)__ |
