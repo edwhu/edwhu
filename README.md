@@ -21,6 +21,7 @@ I like studying codebases that are elegantly written and do cool things. Some to
 Some of my side projects:
 |     |     |     |
 | :-: | :-: | :-- |
+| [Dreamer 4](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Reimplementation of Dreamer 4 in Jax |
 | [gpt2 slackbot](https://github.com/edwhu/slack-gpt2) | ![](https://img.shields.io/github/stars/edwhu/slack-gpt2?label=%E2%98%85) | Chatting with GPT2 in slack |
 | [optical illusion](https://github.com/edwhu/optical_illusion) | ![](https://img.shields.io/github/stars/edwhu/optical_illusion?label=%E2%98%85) | A cool optical illusion |
 
