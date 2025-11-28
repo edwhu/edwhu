@@ -6,6 +6,7 @@ Here are the codebases of my research projects so far.
 |     |     |     |
 | :-: | :-: | :-- |
 | [aawr](https://github.com/penn-pal-lab/aawr) | ![](https://img.shields.io/github/stars/penn-pal-lab/aawr?label=%E2%98%85) | Real World RL of Active Perception Behaviors (NeurIPS'25) |
+| [dreamer4-jax](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Reimplementation of Dreamer 4 in Jax |
 | [bst](https://github.com/microsoft/bst) | ![](https://img.shields.io/github/stars/microsoft/bst?label=%E2%98%85) | The Belief State Transformer (ICLR'25) |
 | [scaffolder](https://github.com/penn-pal-lab/scaffolder) | ![](https://img.shields.io/github/stars/penn-pal-lab/scaffolder?label=%E2%98%85) | Privileged Sensing Scaffolds RL __(ICLR'24 Spotlight)__ |
 | [planning goals for exploration](https://github.com/penn-pal-lab/peg) | ![](https://img.shields.io/github/stars/penn-pal-lab/peg?label=%E2%98%85) | Planning Goals for Exploration __(ICLR'23 Spotlight)__|
@@ -21,7 +22,6 @@ I like studying codebases that are elegantly written and do cool things. Some to
 Some of my side projects:
 |     |     |     |
 | :-: | :-: | :-- |
-| [Dreamer 4](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Reimplementation of Dreamer 4 in Jax |
 | [gpt2 slackbot](https://github.com/edwhu/slack-gpt2) | ![](https://img.shields.io/github/stars/edwhu/slack-gpt2?label=%E2%98%85) | Chatting with GPT2 in slack |
 | [optical illusion](https://github.com/edwhu/optical_illusion) | ![](https://img.shields.io/github/stars/edwhu/optical_illusion?label=%E2%98%85) | A cool optical illusion |
 
