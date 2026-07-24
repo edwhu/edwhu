@@ -5,7 +5,7 @@ Here are the codebases of my research projects so far.
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [open-dreamer](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/next-state/open-dreamer?label=%E2%98%85) | Full-scale reimplementation of Dreamer-4 |
+| [open-dreamer](https://github.com/next-state/open-dreamer) | ![](https://img.shields.io/github/stars/next-state/open-dreamer?label=%E2%98%85) | Full-scale reimplementation of Dreamer-4 |
 | [aawr](https://github.com/penn-pal-lab/aawr) | ![](https://img.shields.io/github/stars/penn-pal-lab/aawr?label=%E2%98%85) | Real World RL of Active Perception Behaviors (NeurIPS'25) |
 | [dreamer4-jax](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Prototype reimplementation of Dreamer 4 in Jax |
 | [bst](https://github.com/microsoft/bst) | ![](https://img.shields.io/github/stars/microsoft/bst?label=%E2%98%85) | The Belief State Transformer (ICLR'25) |
