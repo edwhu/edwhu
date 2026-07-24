@@ -5,8 +5,9 @@ Here are the codebases of my research projects so far.
 
 |     |     |     |
 | :-: | :-: | :-- |
+| [open-dreamer](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/next-state/open-dreamer?label=%E2%98%85) | Full-scale reimplementation of Dreamer-4 |
 | [aawr](https://github.com/penn-pal-lab/aawr) | ![](https://img.shields.io/github/stars/penn-pal-lab/aawr?label=%E2%98%85) | Real World RL of Active Perception Behaviors (NeurIPS'25) |
-| [dreamer4-jax](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Reimplementation of Dreamer 4 in Jax |
+| [dreamer4-jax](https://github.com/edwhu/dreamer4-jax) | ![](https://img.shields.io/github/stars/edwhu/dreamer4-jax?label=%E2%98%85) | Prototype reimplementation of Dreamer 4 in Jax |
 | [bst](https://github.com/microsoft/bst) | ![](https://img.shields.io/github/stars/microsoft/bst?label=%E2%98%85) | The Belief State Transformer (ICLR'25) |
 | [scaffolder](https://github.com/penn-pal-lab/scaffolder) | ![](https://img.shields.io/github/stars/penn-pal-lab/scaffolder?label=%E2%98%85) | Privileged Sensing Scaffolds RL __(ICLR'24 Spotlight)__ |
 | [planning goals for exploration](https://github.com/penn-pal-lab/peg) | ![](https://img.shields.io/github/stars/penn-pal-lab/peg?label=%E2%98%85) | Planning Goals for Exploration __(ICLR'23 Spotlight)__|
